@@ -4,12 +4,12 @@ A SwiftUI application that displays recipes from a provided API endpoint, with p
 
 ## Summary
 
-<div style="display: flex; gap: 10px;">
-![image](https://github.com/user-attachments/assets/c80bd471-181d-4e77-b0dd-f225cd3ddfbf)
-![image](https://github.com/user-attachments/assets/31dd56f3-add2-45c4-af4a-0bf5a0f71b0b)
-![image](https://github.com/user-attachments/assets/f80934f2-5350-469b-943f-bbf51b3feb86)
-![image](https://github.com/user-attachments/assets/08e00b4d-8905-4ce2-9fb6-542835f7d544)
-</div>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/c80bd471-181d-4e77-b0dd-f225cd3ddfbf" width="200" />
+  <img src="https://github.com/user-attachments/assets/31dd56f3-add2-45c4-af4a-0bf5a0f71b0b" width="200" />
+  <img src="https://github.com/user-attachments/assets/f80934f2-5350-469b-943f-bbf51b3feb86" width="200" />
+  <img src="https://github.com/user-attachments/assets/08e00b4d-8905-4ce2-9fb6-542835f7d544" width="200" />
+</p>
 
 ## Focus Areas
 
